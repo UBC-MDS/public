@@ -91,7 +91,7 @@ DSCI 573 Feature and Model Selection
 
 DSCI 574 Spatial and Temporal Models
 
-  * Model fitting and prediction in the presence of correlation due to temporal or spatial association. ARIMA models, Hidden Markov Models, and Gaussian processes.
+  * Model fitting and prediction in the presence of correlation due to temporal and/or spatial association. ARIMA models and Gaussian processes.
 
 DSCI 575 Advanced Machine Learning
 
