@@ -35,7 +35,7 @@ DSCI 525 Web and Cloud Computing
   
 DSCI 531 Data Visualization I
 
-  * The design and implementation of static figures across all phases of data analysis, from ingest and cleaning to description and inference. How to make principled and effective choices with respect to marks, spatial arrangement, and color. 
+  * The design and implementation of static figures across all phases of data analysis, from ingest and cleaning to description and inference. How to make principled and effective choices with respect to marks, spatial arrangement, and colour. 
   
 DSCI 532 Data Visualization II
 
@@ -51,7 +51,7 @@ DSCI 542 Communication and Argumentation
  
 DSCI 551 Exploratory Data Analysis for Data Science
 
-  * Describing data in terms of it location, spread, and general distribution. How to balance the use of procedures from classical, parametric statistics with robust approaches that account for outliers and missing data.
+  * Describing data in terms of its location, spread, and general distribution. How to balance the use of procedures from classical, parametric statistics with robust approaches that account for outliers and missing data.
 
 DSCI 552 Statistical Inference and Computation I  
 
@@ -99,4 +99,4 @@ DSCI 575 Advanced Machine Learning
   
 DSCI 591 Capstone Project (6 credits)
 
-  * A faculty-mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application.
+  * A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application.
