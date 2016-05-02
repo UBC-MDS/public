@@ -1,0 +1,108 @@
+Short descriptions of the 24 1-credit modules
+================
+
+DSCI 511 Programming for Data Science
+
+  * Overview of data structures, iteration, flow control, and program design relevant to data ingest and exploration. When and how to exploit pre-existing libraries.
+
+How about ...
+  * Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis.  When and how to exploit pre-existing software libraries.
+
+
+
+DSCI 512 Algorithms and Data Structures 
+
+  * How to evaluate algorithms and data structures in the context of data scientific problems. Key concepts, e.g. algorithmic complexity and recursion, and fundamental data structures, e.g. hash tables and trees.
+
+How about ...
+  * How to choose and use appropriate algorithms and data structures (e.g., hash tables, trees) to help solve data science problems.  Key concepts such as recursion and algorithmic complexity (e.g., efficiency, scalability).
+
+
+  
+DSCI 513 Databases and Data Retrieval
+
+  * Relational databases. SQL, XML, and XQuery. WORDING NEEDED RAYMOND.
+
+How about ...
+  * A lot of valuable data is stored in relational database systems or in formats utilizing markup languages.  Storage structures and schemas, data relationships, and ways to query and aggregate such data.
+
+
+  
+DSCI 521 Computing Platforms for Data Science
+
+  * How to install, maintain, and use the data scientific software "stack". The Unix operating system, integrated develoment environments, and problem solving strategies.
+
+How about ...
+  * (typo:  development)
+
+
+  
+DSCI 522 Data Science Workflows
+
+  * Interactive vs. scripted/unattended analyses and how to move fluidly between them. Reproducibility through automation and dynamic, literate documents. The use of version control and file organization to enhance machine- and human-readability.
+
+
+
+DSCI 523 Data Wrangling
+
+ * Converting data from the form in which it is collected to the form needed for analysis. How to clean, filter, arrange, aggregate, and transform diverse data types, e.g. strings, numbers, and date-times.
+
+
+
+DSCI 524 Collaborative Software Development
+
+  * How to exploit practices from collaborative software development techniques in data scientific workflows. Appropriate use of abstraction and classes, the software life cycle, unit testing / continuous integration, and packaging for use by others.
+
+
+  
+DSCI 525 Web and Cloud Computing  
+
+  * WORDING NEEDED. MICHAEL?
+
+
+  
+DSCI 531 Data Visualization I
+
+  * The design and implementation of static figures across all phases of data analysis, from ingest and cleaning to description and inference. How to make principled and effective choices with respect to marks, spatial arrangement, and color. 
+
+
+  
+DSCI 532 Data Visualization II
+
+  * Analysis, design, and implementation of interactive figures. How to provide multiple views, deal with complexity, and make difficult decisions about data reduction.
+
+
+
+DSCI 541 Privacy, Ethics, and Security  
+
+  * The legal, ethical, and security issues concerning data, including aggregated data. Proactive compliance with rules and, in their absence, principles for the responsible management of senstive data.
+
+How about ...
+  * (spelling:  sensitive)
+  * How about adding two words after the last period:  Case studies.
+
+
+  
+DSCI 542 Communication and Argumentation
+
+  * Effective oral and written communication, across diverse target audiences, to facilitate understanding and decision-making. How to present and interpret data, with productive skepticism and an awareness of assumptions and bias.
+ 
+
+
+DSCI 551 Exploratory Data Analysis for Data Science
+
+  * Describing data in terms of it location, spread, and general distribution. How to balance the use of procedures from classical, parametric statistics with robust approaches that account for outliers and missing data.
+
+
+DSCI 552 Statistical Inference and Computation I  
+DSCI 553 Statistical Inference and Computation II  
+DSCI 554 Experimentation and Causal Inference  
+DSCI 561 Regression I  
+DSCI 562 Regression II  
+DSCI 563 Unsupervised Learning  
+DSCI 571 Supervised Learning I  
+DSCI 572 Supervised Learning II  
+DSCI 573 Feature and Model Selection  
+DSCI 574 Spatial and Temporal Models  
+DSCI 575 Advanced Machine Learning  
+DSCI 591 Capstone Project (6 credits)
