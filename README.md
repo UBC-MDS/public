@@ -1,12 +1,12 @@
 # public
 
-Public documents for a proposed Master of Data Science at the University of British Columbia
+Public documents for the Master of Data Science at the University of British Columbia
 
-UBC has proposed to create a new Master of Data Science (MDS) degree program. This proposal has been **submitted for consideration by the Degree Quality Assessment Board** within the British Columbia Ministry of Advanced Education. **Subject to ministry approval**, the first cohort of MDS students will arrive in September 2016.
+UBC has created a new Master of Data Science (MDS) degree program. The first cohort of MDS students will arrive in September 2016.
 
-[JOB AD for a Postdoctoral Teaching and Learning Fellow](https://github.com/UBC-MDS/mds-stats-teaching-fellow)
+[JOB AD for a Postdoctoral Teaching and Learning Fellow](https://github.com/UBC-MDS/mds-stats-teaching-fellow) [note: this position has been filled]
 
-Information about the proposed program is publicly available in pages 52 through 85 of [the docket from the November 2015 meeting](http://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20151118%20Vancouver%20Senate%20Materials-v2.pdf) of UBC Vancouver Senate.
+Information about the program is publicly available in pages 52 through 85 of [the docket from the November 2015 meeting](http://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20151118%20Vancouver%20Senate%20Materials-v2.pdf) of UBC Vancouver Senate.
 
 Key excerpts have been copied and pasted below.
 
@@ -48,7 +48,7 @@ DSCI 591 Capstone Project (6 credits)
 
 #### Additional details
 
-**Proposed Program Start Date**: The program will be first offered in September 2016.
+**Program Start Date**: The program will be first offered in September 2016.
 
 **Program Completion Time**: Anticipated time for completion of the program is 10 months of full-time academic study.
 
