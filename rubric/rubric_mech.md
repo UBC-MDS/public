@@ -6,6 +6,7 @@ This rubric measures the student's ability to produce an assignment that *works 
   <tr>
     <th>Very poor (0&nbsp;points)</th>
     <th>Poor (1&nbsp;point)</th>
+    <th>Satisfactory (2&nbsp;points)</th>
     <th>Excellent (3&nbsp;points)</th>
   </tr>
   <tr>
