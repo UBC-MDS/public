@@ -1,18 +1,20 @@
 ## Grading Rubric for Spark ##
 
-This rubric is intended to reward students who put time and effort into overcoming unexpected problems, or who go above and beyond in some way. Almost all assignments are eligible for bonus marks or deductions based on "spark." Therefore, consider including notes about problems they encountered and how you overcame them if you did put significant work into it.
+This rubric is intended to reward students who put time and effort into overcoming unexpected problems, or who go above and beyond in some way. Doing lab/quiz questions labeled "(optional)" is one way to earn Spark points.
 
 <table>
   <tr>
-    <th>Poor</th>
-    <th>Satisfactory</th>
-    <th>Excellent</th>
+    <th>No bonus (0&nbsp;points)</th>
+    <th>Wow (1&nbsp;point)</th>
+	<th>Wow!! (2&nbsp;points)</th>
+    <th>Wow!!!!! (3&nbsp;points)</th>
   </tr>
   <tr>
-	<td>There are indications that student did not attempt to solve any problems that were encountered; student may have given up after encountering a single error without persisting.</td>
-	<td>Student was able to overcome problems encountered e.g. by searching for the error encountered on StackOverflow, asking for help, researching the problem, etc. </td>
-	<td>Student came up with a very clever solution to a problem encountered e.g.:
-	<br/> - by researching, finding, or even inventing a useful algorithm to solve a problem or optimize performance; <br/> - by modifying and recompiling libraries containing a bug or lack of functionality;
-	<br/> - student went above and beyond the assignment in some other way.</td>
+  <tr>
+	<td>Student stayed within the intended limits of the assessment.</td>
+	<td>Student dug deeper into some aspect of the problem, handled some extra edge cases, or did some extra reading.</td>
+	<td>Student came up with a clever solution to a problem encountered e.g.
+	by researching/finding a useful algorithm to solve a problem or optimize performance, by modifying and recompiling libraries containing a bug or lack of functionality; student went above and beyond the assignment in some other way.</td>
+	<td>Student went significantly beyond the scope of the assignment by performing original work and/or creating original content to be shared with the world. Student's work on this assessment will likely be referenced/used outside the scope of the MDS program. 
   </tr>
 </table>
