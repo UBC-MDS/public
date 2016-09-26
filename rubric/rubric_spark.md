@@ -10,7 +10,6 @@ This rubric is intended to reward students who put time and effort into overcomi
     <th>Wow!!!!! (3&nbsp;points)</th>
   </tr>
   <tr>
-  <tr>
 	<td>Student stayed within the intended limits of the assessment.</td>
 	<td>Student dug deeper into some aspect of the problem, handled some extra edge cases, or did some extra reading.</td>
 	<td>Student came up with a clever solution to a problem encountered e.g.
