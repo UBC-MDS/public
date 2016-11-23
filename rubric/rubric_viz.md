@@ -15,8 +15,8 @@ sufficient overview.<br><br>Intended tasks are poorly supported.<br><br>Design c
 are arbitrary rather than justified.
 </td>
     <td>Most design decisions are effective, with only a few minor
-mismatches. Overviews do not mislead. Some data is derived with appropriate
-data transformations. Display has minor clutter or is overly sparse.
+mismatches.<br><br>Overviews do not mislead.<br><br>Some data is derived with appropriate
+data transformations.<br><br>Display has minor clutter or is overly sparse.
 </td>
     <td>All visual channels including spatial position and color are correctly
 matched with attributes according to expressiveness with respect to
