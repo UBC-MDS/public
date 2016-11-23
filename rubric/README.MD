@@ -44,6 +44,12 @@ There are 6 rubrics:
         <td><a href=rubric_presentations.md>rubric_presentations.md</a></td>
     </tr>
     <tr>
+        <th>Visualizations</th>
+        <td><div align="center"><img src="icon/viz.png"/ width=48></div></td>
+        <td>Visualizations are designed effectively.</td>
+        <td><a href=rubric_viz.md>rubric_viz.md</a></td>
+    </tr>
+    <tr>
         <th>Spark (bonus points)</th>
         <td><div align="center"><img src="icon/spark.png"/ width=48></div></td>
         <td>Student shows initiative or resourcefulness.</td>
