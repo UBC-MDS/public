@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td>Not Attempted</td>
-    <td>Visual channels are mismatched with attribute characteristics; axes and
-legends are missing or incorrect; low-level detail is provided without
-sufficient overview; intended tasks are poorly supported; design choices
+    <td>Visual channels are mismatched with attribute characteristics<br><br>Axes and
+legends are missing or incorrect<br><br>Low-level detail is provided without
+sufficient overview<br><br>Intended tasks are poorly supported<br><br>Design choices
 are arbitrary rather than justified.
 </td>
     <td>Most design decisions are effective, with only a few minor
@@ -22,10 +22,10 @@ data transformations. Display has minor clutter or is overly sparse.
 matched with attributes according to expressiveness with respect to
 categorical and quantitative data, and with effectiveness criteria with
 respect to perceptual accuracy and the number of distinguishable bins
-required; all axes and legends are present and suitable; comprehensible
+required<br><br>All axes and legends are present and suitable<br><br>Comprehensible
 overviews provide hints on potentially interesting areas to explore
-further; appropriate data transformations are chosen to compute derived
-data; information density is good.
+further<br><br>Appropriate data transformations are chosen to compute derived
+data<br><br>Information density is good.
 </td>
   </tr>
 </table>
