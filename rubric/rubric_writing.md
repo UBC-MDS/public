@@ -15,7 +15,7 @@ This rubric measures the student's ability to produce an assignment that *works 
 	<td>Not Attempted</td>
 	<td>Meaning of text is obscured due to significant grammar and spelling errors.</td>
 	<td>Meaning of text is not significantly obscured by grammar or spelling errors.</td>
-	<td>Few or no grammar or spelling errors are present.</td>
+	<td>No grammar or spelling errors are present.</td>
   </tr>
   <tr>
     <th>Length (50%)</th>
