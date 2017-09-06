@@ -1,7 +1,5 @@
 ## Grading Rubric for Writing Quality ##
 
-This rubric measures the student's ability to produce an assignment that *works correctly*; 
-
 <table>
   <tr>
     <th></th>
