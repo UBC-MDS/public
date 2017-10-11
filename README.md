@@ -7,4 +7,4 @@ more of the materials public over time. Our current plan is to post the homework
 
 -----------------
 
-Unless otherwise noted, the course materials here are licensed under the [CC BY-NC 3.0 Creative Commons License](https://creativecommons.org/licenses/by-nc/3.0/).
+Unless otherwise noted, the course materials here are licensed under the [CC BY-SA 3.0 Creative Commons License](https://creativecommons.org/licenses/by-sa/3.0/us/).
