@@ -2,13 +2,13 @@
 
 <table>
   <tr>
-    <th>No Attempt (0&nbsp;points)</th>
-    <th>Poor (1&nbsp;point)</th>
+    <th>Poor (0&nbsp;points)</th>
+    <th>Problematic (1&nbsp;point)</th>
     <th>Satisfactory (2&nbsp;points)</th>
     <th>Excellent (3&nbsp;points)</th>
   </tr>
   <tr>
-    <td>Not Attempted</td>
+    <td>Submission does not address question asked, makes no sense or was not attempted.</td>
     <td>Submission lacks a clear purpose, little understanding of the learning material is displayed, important information is lacking are presented. The text may contradict itself, or obvious gaps in the argument are present. <br/><br/>In the case of short-answer questions, the incorrect answer was attained and the wrong method was used.
 <br/><br/> Analysis is lacking if it is required.
 <br/><br/> Reasoning is flawed or insufficient, does not accurately back up claim, or no clear thesis established.
