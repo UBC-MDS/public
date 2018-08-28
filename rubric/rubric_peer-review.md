@@ -4,15 +4,19 @@ This rubric is for assessing one student's peer review of another student's work
 
 <table>
   <tr>
-    <th>No attempt (0&nbsp;points)</th>
-    <th>Poor (1&nbsp;point)</th>
-	<th>Satisfactory (2&nbsp;points)</th>
-    <th>Excellent (3&nbsp;points)</th>
+    <th>No attempt (0)</th>
+    <th>Poor (F)</th>
+    <th>Unsatisfactory (D)</th>
+    <th>Satisfactory (C- to C+)</th>
+    <th>Good (B- to B+)</th>  
+    <th>Excellent (A- to A+)</th>
   </tr>
   <tr>
-	<td>Review not written by the deadline; or, the review is mean or disrespectful.</td>
+	<td>No attempt</td>
+	<td>The review is mean or disrespectful.</td>
 	<td>The review is so generic that it's hard to determine which assignment it's reviewing. It doesn't offer any praise and yet doesn't offer any suggestions either.</td>
-	<td>n/a</td>
+	<td></td>
+	<td></td>
 	<td>The review contains thoughtful, constructive and considerate comments. It is specific and concise.</td>
   </tr>
 </table>
