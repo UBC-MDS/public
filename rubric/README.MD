@@ -9,7 +9,7 @@ There are 6 rubrics:
 - (code) [accuracy](rubric_autograde.md)
 - (code) [quality](rubric_quality.md)
 - (code) [autograde](rubric_autograde.md)
-- [correctness](rubric_correctness.md
+- [correctness](rubric_correctness.md)
 - [mechanics](rubric_mech.md)
 - [reasoning](rubric_reasoning.md)	
 - [viz](rubric_viz.md)
