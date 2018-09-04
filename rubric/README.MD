@@ -4,7 +4,7 @@ These small rubrics are intended to be used together to judge individual assignm
 
 All rubrics are intended to be orthogonal, and, as such, completely modularizable. The scope of any two rubrics should not overlap.
 
-There are 6 rubrics:
+The rubrics are:
 
 - (code) [accuracy](rubric_accuracy.md)
 - (code) [quality](rubric_quality.md)
