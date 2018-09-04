@@ -1,6 +1,6 @@
-## Grading Rubric for Correctness ##
+## Grading Rubric for Autograde ##
 
-This rubric is for questions that are either right or wrong, without the possibility of partial credits.
+This rubric is for questions that are either right or wrong and graded via the nbgrader autograde system. 
 
 <table>
   <tr>
