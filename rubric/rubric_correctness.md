@@ -1,4 +1,4 @@
-## Grading Rubric for Quizzes ##
+## Grading Rubric for Correctness ##
 
 This rubric is for questions that are either right or wrong, without the possibility of partial credits.
 Thus far we've only had these types of questions on quizzes; hence the name Quiz Rubric. 
