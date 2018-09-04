@@ -2,17 +2,30 @@
 
 <table>
   <tr>
-    <th>Poor (0&nbsp;points)</th>
-    <th>Problematic (1&nbsp;point)</th>
-    <th>Satisfactory (2&nbsp;points)</th>
-    <th>Excellent (3&nbsp;points)</th>
+    <th>No attempt (0)</th>
+    <th>Poor (F)</th>
+    <th>Unsatisfactory (D)</th>
+    <th>Satisfactory (C- to C+)</th>
+    <th>Good (B- to B+)</th>  
+    <th>Excellent (A- to A+)</th>
   </tr>
   <tr>
-    <td>Submission does not address question asked, makes no sense or was not attempted.</td>
-    <td>Submission lacks a clear purpose, little understanding of the learning material is displayed, important information is lacking are presented. The text may contradict itself, or obvious gaps in the argument are present. <br/><br/>In the case of short-answer questions, the incorrect answer was attained and the wrong method was used.
-<br/><br/> Analysis is lacking if it is required.
+    
+   <td>Not attempted.</td>
+   <td>Submission does not address question asked or makes no sense.</td>
+    
+   <td>Submission lacks a purpose, little to no understanding of the learning material is displayed, important information is lacking. The text may contradict itself, or obvious gaps in the argument are present. <br/><br/>In the case of short-answer questions, the incorrect answer was attained and the wrong method was used.
+<br/><br/> Analysis is lacking (if it is required).
 <br/><br/> Reasoning is flawed or insufficient, does not accurately back up claim, or no clear thesis established.
 <br/><br/> Structure of argument is confusing and poorly laid-out; if this is a written submission, the reader may have to jump back and forth through the text. Any figures included are not labelled clearly or sensibly.
+</td>
+   
+    
+   <td>There is purpose to the submission, some understanding of the learning material is demonstrated.
+<br/><br/>In the case of short-answer questions, the correct or approximately correct method was used.
+<br/><br/> Analysis is mostly correct but may be lacking in-depth.
+<br/><br/> Thesis, arguments and reasoning are present but do not strongly back up the thesis.
+<br/><br/> Structure of argument is somewhat clear. Paragraph delineation could be improved (if this is a written submission). Included figures labels need more clarity/could be better.
 </td>
     <td>There is a clear purpose to the submission, understanding of the learning material is demonstrated.
 <br/><br/>In the case of short-answer questions, the correct or approximately correct method was used.

@@ -4,10 +4,10 @@ This rubric is intended to reward students who put time and effort into overcomi
 
 <table>
   <tr>
-    <th>No bonus (0&nbsp;points)</th>
-    <th>Wow (1&nbsp;point)</th>
-	<th>Wow!! (2&nbsp;points)</th>
-    <th>Wow!!!!! (3&nbsp;points)</th>
+    <th>No bonus (0)</th>
+    <th>Wow (A-)</th>
+	<th>Wow!! (A)</th>
+    <th>Wow!!!!! (A+)</th>
   </tr>
   <tr>
 	<td>Student stayed within the intended limits of the assessment.</td>
