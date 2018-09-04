@@ -6,7 +6,7 @@ All rubrics are intended to be orthogonal, and, as such, completely modularizabl
 
 There are 6 rubrics:
 
-- (code) [accuracy](rubric_autograde.md)
+- (code) [accuracy](rubric_accuracy.md)
 - (code) [quality](rubric_quality.md)
 - (code) [autograde](rubric_autograde.md)
 - [correctness](rubric_correctness.md)
