@@ -23,7 +23,7 @@
     <th>Robustness and Maintainability (50%)</th>
 	<td>Did not attempt</td>
     	<td>No effort has been made to reduce code repitition. Tests are absent.</td>
-	<td>Multiple issues with code repitition exist, and several tests are absent and/or are of poor efficacy</td>
+	<td>Multiple issues with code repetition exist, and several tests are absent and/or are of poor efficacy</td>
 	<td>Some form of re-occuring code repitition exists, or tests efficacy is poor. </td>
 	<td>Code repitition is mostly minimized and effective tests are present for most functions.</td>
     	<td>Code repitition is minimized via the use of loops/mapping functions, functions or classes or scripts/files as needed without becoming overly complicated. <br></br> Functions are short, concise, and cohesive without losing clarity; code can be easily modified. <br></br> Tests are present to ensure functions work as expected. Exceptions are caught and thrown if necessary (Once students have learned about exceptions).</td>
