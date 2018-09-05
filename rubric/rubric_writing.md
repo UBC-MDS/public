@@ -32,4 +32,3 @@ This rubric measures the student's ability to produce an assignment that *works 
   </tr>
 </table>
 
-Text that is too short may lose points due to lack of [sufficient content](rubric_content.md).
