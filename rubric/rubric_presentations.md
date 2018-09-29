@@ -22,7 +22,7 @@
   <tr>
     <th>Use of Visuals (40%)</th>
     <td>Not Attempted</td>
-    <td>Speaker totally ignored or botched all opportunities to enhance their presentation with visuals.</td>
+    <td>Speaker missed all opportunities to enhance their presentation with visuals.</td>
     <td>Speaker designed some form of visuals, but doesn't follow any best practices. Visuals may have large blocks of text, unannotated graphs, jarring color schemes, or otherwise confusing designs. Slides may be riddled with typos.</td>
     <td>Speaker designed visuals that could have been useful as supplements to the presentation, but fails to use them effectively. (For example, graphs may be reasonably well-designed, but the speaker doesn't explain their axes or help the audience understand their messages.) Speaker may be distracted by their own visuals, or may inadvertently cause the visuals to compete with their own words for the audience's attention. There are multiple typos.</td>
     <td>Visuals are well designed and almost always used to good effect. Fonts, colors, images, or whitespace could use minor improvements. There may be one or two typos.</td>
@@ -39,4 +39,4 @@
   </tr>
 </table>
 
-In addition to their oral skills, presenters may be judged on the [content](./rubric_reasoning.md) of their presentations.
+In addition to the presentation quality, presenters may also be judged on the [content](./rubric_reasoning.md) of their presentations.
