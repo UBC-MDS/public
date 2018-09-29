@@ -1,4 +1,4 @@
-## Grading Rubric for Presentations##
+## Grading Rubric for Presentations
 
 <table>
   <tr>
