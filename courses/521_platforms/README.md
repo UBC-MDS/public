@@ -52,3 +52,7 @@ Materials were inspired, re-used and re-mixed from the following sources:
 - [Happy Git and GitHub for the useR by Jenny Bryan and the STAT 545 TAs](http://happygitwithr.com/)
 - [Data 8: The Foundations of Data Science](http://data8.org/), specifically Lab 01
 - [Data Carpentry Reproducible Science Workshop](https://datacarpentry.org/rr-organization1/)
+
+## License
+
+The UBC Master of Data Science DSCI 521: Computing Platforms for Data Science course materials here are licensed under the CC BY-SA 3.0 Creative Commons License. If re-using/re-mixing please probvide attribution and link to this webpage.
