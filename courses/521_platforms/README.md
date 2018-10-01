@@ -55,4 +55,4 @@ Materials were inspired, re-used and re-mixed from the following sources:
 
 ## License
 
-The UBC Master of Data Science DSCI 521: Computing Platforms for Data Science course materials here are licensed under the Creative Commons Attribution 2.5 Canada License ([CC BY 2.5 CA](https://creativecommons.org/licenses/by/2.5/ca/)). If re-using/re-mixing please probvide attribution and link to this webpage.
+The UBC Master of Data Science DSCI 521: Computing Platforms for Data Science course materials here are licensed under the Creative Commons Attribution 2.5 Canada License ([CC BY 2.5 CA](https://creativecommons.org/licenses/by/2.5/ca/)). If re-using/re-mixing please provide attribution and link to this webpage.
