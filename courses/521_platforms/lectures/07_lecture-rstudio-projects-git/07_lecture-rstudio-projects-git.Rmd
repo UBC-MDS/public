@@ -1,0 +1,174 @@
+---
+title: "Lecture 7"
+subtitle: "RStudio projects and driving Git from RStudio"
+author: "Tiffany Timbers"
+date: "2018/09/21 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Lecture learning goals:
+
+### By the end of this week, you should be able to:
+
+--
+
+- Create an RStudio project
+
+--
+
+- Edit/customize RStudio project settings 
+
+--
+
+- Use RStudio as a Git client to manage your project's version control
+
+--
+
+- Set `knitr` options and use `rmarkdown::render` to reproducibly render a R Markdown document somewhere other than the root of your project
+
+--
+---
+
+# RStudio projects
+
+- A directory containing a special file: `*.Rproj`
+
+- Allows you to do the following awesome/useful things:
+
+  - use RStudio as a Git client
+  
+  - never save workspace to `.Rdata` when quitting RStudio
+  
+  - never restore `.Rdata` into your workspace when starting RStudio
+
+---
+
+## Creating RStudio projects
+
+Because we use version control with everything in Data Science...
+
+1. Start by making a GitHub repo
+
+2. Copy the URL needed to clone that repo from GitHub
+
+3. Then select File > New Project > Version Control > Git and fill in:
+
+  - Repository URL
+  
+  - Create Project as a subdirectory of
+  
+
+--
+
+**Give it a try!**
+
+---
+
+## Where is your working directory?
+
+- After you successfully created an R project, your working directory should now be the R Project's root directory. 
+
+**Verify that by typing `getwd()` in your R console**
+
+---
+
+## Editing RStudio project settings
+
+--
+
+- In general, we NEVER want to save our workspace (or load a previous one).
+
+--
+
+- We can avoid accidentally doing this through editing the RStudio project settings.
+
+--
+
+- Project options are found under Tools > project options.
+
+--
+
+**Try editing your project options to never save or load your workspace from `.Rdata`**
+
+--
+
+---
+
+## Using RStudio to drive Git
+
+- RStudio can be used as a Git Client/GUI to `add`, `commit`, `push` and `pull` your changes. 
+
+- This only works IF you have a `.Rproj` file.
+
+- The machinery to do this is in a tab of the Environment/History pane of RStudio.
+
+**Try creating a `README.md` file in your R project and pushing those changes to GitHub. Visit GitHub to verify that they made it there.**
+
+---
+
+## Use `.Rproj` to open Rstudio
+
+- You can double click on the `.Rproj` file of an RStudio project to open RStudio.
+
+- When you do this, it also sets the currentl working directory to be the RStudio project's working directory.
+
+- This is pretty nice!
+
+![](https://media.giphy.com/media/l1J9O9elEvuRjMyXu/giphy.gif)
+
+**Give it a try!**
+
+---
+
+## Taking control of `knitr` and `rmarkdown::render`
+
+Last lab when you created R Markdown documents, you left them in the project root. This made for a less than organised project. 
+
+![](https://media.giphy.com/media/mciMfMijRXIfm/giphy.gif)
+
+---
+
+Let's learn to knit/render a document that lives in the `doc` directory.
+
+![](https://media.giphy.com/media/l2JInZhQ501ASOEs8/giphy.gif)
+
+
+---
+
+Let's start by exploring this demo: https://github.com/ttimbers/equine_numbers_value_canada_rmd
+
+---
+
+## How did we do this?
+
+- specify `knitr::opts_knit$set(root.dir = here::here())` in the your setup code chunk
+
+---
+
+## But I want my figures in the results directory?
+
+Or somehwere else...
+
+---
+
+- Maybe this isn't ideal, but its better than having everything in the project root
+
+---
+
+- This lack of flexibility is intentional stems from the developer's ([Yihui Xie](https://yihui.name/)) philosophy
+
+---
+
+- Not everyone agrees, and so we also have the [`ezknitr`](https://github.com/ropensci/ezknitr) package (but this might not be actively maintained, so use with caution...)
+
+
+---
+
+## Go forth and practice
+

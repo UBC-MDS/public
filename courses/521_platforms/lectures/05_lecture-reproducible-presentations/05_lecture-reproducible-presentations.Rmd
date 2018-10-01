@@ -1,0 +1,97 @@
+---
+title: "Lecture 5"
+subtitle: "More working directory stuff and Presentations with RMarkdown and Jupyter"
+author: "Tiffany Timbers"
+date: "2018/09/14 (updated: `r Sys.Date()`)"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# This is a title slide
+
+## Lecture learning goals:
+
+### By the end of this week, you should be able to:
+- Use RStudio to create, edit and run an Rscript 
+- Use RStudio to access the help files
+- **Use RStudio to edit, create and run R Markdown documents (for reports and presentations)**
+- **Use Jupyter to make presenations using RISE**
+
+
+
+## Revisiting the working directory problem
+
+> - clone [this repo](https://github.com/ttimbers/equine_numbers_value_canada_simple)
+> - let's use this to demonstrate the working directory problem
+
+# Back to presentations
+
+## Presentations with ioslides in R Markdown
+
+We will use this resource: https://rmarkdown.rstudio.com/ioslides_presentation_format
+
+# Title Slide
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+This is some code
+```{r code demo, echo = TRUE}
+x <- 5
+y <- 10
+(x <- x + y)
+```
+That's all folks!
+
+## Slide with R Output where code has an intentional error
+
+This is some code that has an error.
+
+```{r error demo, echo = TRUE, error = TRUE}
+x <- 5
+y <- M
+(x <- x + y)
+```
+
+Our `.Rmd` will still knit because we used the code chunk option `error = TRUE`
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
+---
+
+There should be no header here
+
+
+## Presentations with RISE in Jupyter
+
+- Another way to do reproducible presentations
+- In Jupyter, instead of R Markdown
+- Pro: can run/execute code from presentation mode!
+- Con: faces same version control issues as a regular Jupyter notebook
+
+## Installing RISE
+
+- Install RISE using `conda`: `conda install -c damianavila82 rise` at the command line
+
+## Getting started with RISE in Jupyter
+
+- Open Jupyter and create a new notebook. To be able to access slide options, from the "View" menu, select "Cell Toolbar" > "Slideshow". Now you should have a drop-down menu for each cell that lets you identify it as a slide (or whatever is appropriate).
+- To view your presentation, click on the Enter/Exit RISE Slideshow button, it looks like this:
+
+<img src="imgs/RISE_button.png" width="600"/>
+
+
+- Read the docs here: https://damianavila.github.io/RISE/usage.html
+

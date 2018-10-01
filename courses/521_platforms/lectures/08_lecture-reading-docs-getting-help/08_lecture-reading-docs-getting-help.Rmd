@@ -1,0 +1,404 @@
+---
+title: "Lecture 7"
+subtitle: "Reading the docs & getting help"
+author: "Tiffany Timbers"
+date: "2018/09/27 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+# Lecture learning goals:
+
+### By the end of this week, you should be able to:
+
+--
+
+- Diagnose and troubleshoot programming and development environment problems, specifically by:
+
+--
+
+  - acessing and reading the R and Python documentation
+
+--
+
+  - searching for examples and solutions on GitHub and Stack Overflow
+
+--
+
+  - **writing good minimum working examples when asking for help**
+
+--
+
+---
+class: inverse, center, middle
+
+# Acessing and reading the R and Python documentation
+
+
+---
+
+## Acessing R & Python docs
+
+--
+
+- `?function_name` or `help(function_name)` to read the docs 
+
+--
+
+- There are also other online resources for package (non-built-in) functions
+
+--
+
+  - R Reference manual (for example, see [ggplot2 CRAN docs](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)) accessed through link on [CRAN package webpage](https://cran.r-project.org/web/packages/available_packages_by_name.html) 
+  
+--
+
+  - R Package vignette (can access via typing `vignette("package_name")` in the R console) 
+  
+--
+
+  - README of GitHub repo for R or Python packagse (find it by searching the package name on GitHub.com, for example see `purrr` R pacakge [README.md](https://github.com/tidyverse/purrr/blob/master/README.md) or the `traitlets` Python package [README.md](https://github.com/ipython/traitlets)) 
+  
+--
+
+  - Package website (if one exists, for example see the [`readr` package webpage](https://readr.tidyverse.org/) or the [numpy package website](https://www.numpy.org/)) 
+--
+---
+class: inverse, center, middle
+
+## Accessing docs from within Python can be a little tricky...
+
+---
+
+## Extra considerations for getting help for Python methods and attributes
+
+- When asking for help for methods & attributes, you need to include the object type in your query
+- For example, the `count` method, which works on strings, requires `str` as a prefix:
+
+
+```python
+help(count)
+```
+
+versus
+
+
+```python
+help(str.count)
+```
+
+---
+
+```python
+help(count)
+```
+
+```output
+----------------------------------------------------------------------
+NameError                            Traceback (most recent call last)
+<ipython-input-1-9dbe85a0224b> in <module>()
+----> 1 help(count)
+
+NameError: name 'count' is not defined
+```
+
+---
+
+```python
+help(str.count)
+```
+
+```output
+Help on method_descriptor:
+
+count(...)
+    S.count(sub[, start[, end]]) -> int
+    
+    Return the number of non-overlapping occurrences of substring sub in
+    string S[start:end].  Optional arguments start and end are
+    interpreted as in slice notation.
+```
+---
+
+## What if you don't know the type of your object? 
+
+- create a sample object and ask the `type`
+
+
+```{python ask for type, echo = TRUE}
+a = "string"
+type(a)
+```
+
+```output
+str
+```
+
+---
+
+## What are all the possible methods and attributes of a given object?
+
+- Sometimes you don't even know what is possible to ask for the help docs...
+- Use `dir()` to list all possible methods and attributes of a queried object:
+
+
+```python
+a = "string"
+dir(a)
+```
+
+```output
+['__add__',
+ '__class__',
+ '__contains__',
+ '__delattr__',
+ '__dir__',
+ '__doc__',
+ '__eq__',
+ '__format__',
+ '__ge__',
+ '__getattribute__',
+ '__getitem__',
+ '__getnewargs__',
+ '__gt__',
+ '__hash__',
+ '__init__',
+ '__init_subclass__',
+ '__iter__',
+ '__le__',
+ '__len__',
+ '__lt__',
+ '__mod__',
+ '__mul__',
+ '__ne__',
+ '__new__',
+ '__reduce__',
+ '__reduce_ex__',
+ '__repr__',
+ '__rmod__',
+ '__rmul__',
+ '__setattr__',
+ '__sizeof__',
+ '__str__',
+ '__subclasshook__',
+ 'capitalize',
+ 'casefold',
+ 'center',
+ 'count',
+ 'encode',
+ 'endswith',
+ 'expandtabs',
+ 'find',
+ 'format',
+ 'format_map',
+ 'index',
+ 'isalnum',
+ 'isalpha',
+ 'isdecimal',
+ 'isdigit',
+ 'isidentifier',
+ 'islower',
+ 'isnumeric',
+ 'isprintable',
+ 'isspace',
+ 'istitle',
+ 'isupper',
+ 'join',
+ 'ljust',
+ 'lower',
+ 'lstrip',
+ 'maketrans',
+ 'partition',
+ 'replace',
+ 'rfind',
+ 'rindex',
+ 'rjust',
+ 'rpartition',
+ 'rsplit',
+ 'rstrip',
+ 'split',
+ 'splitlines',
+ 'startswith',
+ 'strip',
+ 'swapcase',
+ 'title',
+ 'translate',
+ 'upper',
+ 'zfill']
+ ```
+
+---
+
+## Reading the R and Python documentation
+
+- It's a bit of an art
+
+- takes some practice
+
+- and sometimes when you don't understand the docs, its not your fault or lack of knowledge...
+
+---
+
+## Tips for reading the R and Python documentation
+
+These sections of the docs are most helpful (In my opinion)
+
+| Section (R / Python) | What it tells you / how to use it |
+|---------|-----------------------------------|
+| Description / Docstring | General overview of what it does |
+| Usage / Signature | function call with arguments (includes defaults) |
+| Arguments / Parameters | Description of what each argument does |
+| Value / Returns | What the function gives you back |
+| Examples  | Minimal working examples of the function |
+
+
+---
+class: inverse, center, middle
+
+# Searching for examples and solutions on GitHub and Stack Overflow
+
+---
+
+# Searching for examples and solutions on GitHub and Stack Overflow
+
+We already talked about this, but I wanted to document this in your notes:
+
+1. Use the search bar on GitHub.com to search for other (hopefully working) examples of code using the function/package you are interested in
+
+2. Search Stack Overflow for similar problems/questions, a few notes however:
+  - uses a voting system, meaning that the "best" answers float to the top
+  - a word of warning - have a thick skin, not all participants are friendlies...
+
+---
+
+---
+class: inverse, center, middle
+
+# Writing good minimum working examples when asking for help
+
+---
+
+## Asking questions using a minimum working example (MWE)
+
+Sometimes we need to ask others for help. When you do this, you should always provide a minimum working example (MWE).
+
+**MWE** - a collection of source code and other data files which allow a bug or problem to be demonstrated and reproduced
+
+---
+
+## General guidelines for MWE's:
+
+--
+
+- demonstrate problem as small, and simply as possible
+
+--
+
+- description needs to be readable
+
+--
+
+- description needs to be complete
+
+--
+
+- you should verify that the problem exists
+
+--
+
+For more details see: [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve) from Stack Overflow
+
+--
+
+---
+
+## A example of a poor MWE
+
+Hello, I have a data table and am trying to subtract two dates, but
+it's not working.  
+
+I tried
+
+`> myData$Date1 - myData$Date2`
+
+but it doesn't work. Can anyone help? 
+
+*source: [Three tips for posting good questions to R-help and Stack Overflow](https://www.r-bloggers.com/three-tips-for-posting-good-questions-to-r-help-and-stack-overflow/)*
+
+---
+
+## A example of a much better MWE
+
+Hello, 
+
+I have a data.frame and am trying to subtract two components of it,
+but it's not working. I am pasting the dput output of my data.frame object. 
+```
+## dput output assigned to the myData variable
+myData <- structure(list(id = 1:10, Date1 = structure(c(3L, 8L, 1L, 10L, 
+6L, 4L, 5L, 9L, 7L, 2L), .Label = c("1997-07-14", "1997-10-24", 
+"1997-10-26", "1998-08-21", "1998-12-31", "1999-01-31", "1999-05-09", 
+"1999-11-03", "2001-11-04", "2002-06-23"), class = "factor"), 
+    Date2 = structure(c(1L, 7L, 5L, 6L, 2L, 9L, 8L, 4L, 3L, 10L
+    ), .Label = c("1997-07-29", "1997-09-21", "1998-05-06", "1998-07-24", 
+    "1999-10-22", "2000-03-10", "2001-04-03", "2001-08-07", "2001-09-10", 
+    "2002-05-07"), class = "factor")), .Names = c("id", "Date1", 
+"Date2"), row.names = c(NA, -10L), class = "data.frame")
+```
+
+Now, when I run the command I think should work, I see the following: 
+```
+> myData$Date1 - myData$Date2
+[1] NA NA NA NA NA NA NA NA NA NA
+Warning message:
+In Ops.factor(myData$Date1, myData$Date2) : - not meaningful for factors
+```
+What is going on? 
+
+*source: [Three tips for posting good questions to R-help and Stack Overflow](https://www.r-bloggers.com/three-tips-for-posting-good-questions-to-r-help-and-stack-overflow/)*
+
+---
+class: center, middle
+
+## Why is the second example better?
+
+---
+class: center, middle, inverse
+
+# Workshop time! 
+
+Part 1 - scavenger hunt!
+
+---
+
+.pull-left[
+## Stage left side of room
+- Find as many "good" minimum working examples as possible on Stack overflow and copy them [here](https://github.ubc.ca/MDS-2018-19/minimum-working-examples/blob/master/good-mwe.md) *(don't forget to cite where they are from)*. Just above the post, write a sentence or two as to why they are good.
+]
+
+.pull-right[
+## Stage right side of room
+- Find as many "poor" minimum working examples as possible on Stack overflow and copy them [here](https://github.ubc.ca/MDS-2018-19/minimum-working-examples/blob/master/poor-mwe.md) *(don't forget to cite where they are from)*. Just above the post, write a sentence or two as to why they are "poor".
+]
+
+---
+class: center, middle, inverse
+
+# Workshop time! 
+
+Part 2 - write your own minimum working examples!
+
+---
+
+## Everyone
+
+1. On your own, take one of the poor minimum working examples that were identifed by our class and improve it so that it is a "good" one. Or write a "good" one of your own. Use the good ones we identified to help you make poor ones better. (10-15 min) 
+
+2. In pairs, take turns discussing the minimum working examples that you wrote and help each other improve them further. Post your finished version [here](https://github.ubc.ca/MDS-2018-19/minimum-working-examples/blob/master/workshop-mwe.md) (if your's was derived from Stack Overflow, don't forget to cite where they originally were derived from).
+
