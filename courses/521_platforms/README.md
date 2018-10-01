@@ -30,6 +30,10 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 
 Tip: Use the lecture learning objectives as beacons when studying for your quizzes!
 
+## Course preparation
+Follow the installation guide for the UBC Master of Data Science Software Stack here: https://ubc-mds.github.io/resources_pages/installation_instructions/
+
+## Lectures
 | Lecture | Topic | Readings |
 |:-------:|-------|--------------|
 | 1 | [Introduction to MDS tools (Unix, Git/GitHub, Jupyter)](lectures/01_lecture-intro-MDS-tools/01_lecture1-intro-MDS-tools.ipynb)| <ul><li>[The Unix Shell: Navigating Files and Directories](https://swcarpentry.github.io/shell-novice/02-filedir/index.html) or [The shell](http://happygitwithr.com/shell.html)</li><li>[Introduce yourself to Git](http://happygitwithr.com/hello-git.html)</li><li>[Connect to GitHub](http://happygitwithr.com/push-pull-github.html)</li><li>[Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=898687156&utm_adgroupid=48947256715&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=3o1&utm_creative=261400735633&utm_targetid=aud-390929969673:dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=9001561&gclid=CjwKCAjw2rjcBRBuEiwAheKeLwdgCbm0w7Mu-oGjlAhbAkfVlCqhO5RhCxB9fXZWS94MGx57RwxA4RoCsFsQAvD_BwE)</ul> |
