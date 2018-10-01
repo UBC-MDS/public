@@ -25,8 +25,8 @@ This is an __assignment-based course__. You'll be evaluated as follows:
 | Lab 2 - Creating webpages/blogs with Git and GitHub | 15%  |   Submit to Github |
 | Lab 3 - Introduction to RStudio and RMarkdown for reports and presentations | 15%     | Submit to Github |
 | Lab 4 - RStudio projects and driving Git from RStudio | 15%     | Submit to Github |
-| Quiz 1           | 20%     | 2018-09-19 @ 14:00   | On Canvas and written in your lab room |
-| Quiz 2           | 20%     | TBD   | On Canvas and written in your lab room |
+| Quiz 1           | 20%     |  On Canvas and written in your lab room |
+| Quiz 2           | 20%     |  On Canvas and written in your lab room |
 
 Tip: Use the lecture learning objectives as beacons when studying for your quizzes!
 
