@@ -40,3 +40,11 @@ Tip: Use the lecture learning objectives as beacons when studying for your quizz
 | 6 | [Let's talk about filenames and Data Science project organization](lectures/06_filename-project-organisation/06_filename-project-organisation.Rmd) | [Good Enough Practices in Scientific Computing](https://swcarpentry.github.io/good-enough-practices-in-scientific-computing/) |
 | 7 | [RStudio projects and driving Git from RStudio](hlectures/07_lecture-rstudio-projects-git/07_lecture-rstudio-projects-git.Rmd)  | <ul><li>[Using RStudio Projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)</li><li>[Connect RStudio to Git and GitHub](http://happygitwithr.com/rstudio-git-github.html)</li><li>[Workflow: projects](http://r4ds.had.co.nz/workflow-projects.html)</li></ul> |
 | 8 | [Reading the docs & getting help](lectures/08_lecture-reading-docs-getting-help/08_lecture-reading-docs-getting-help.Rmd) | <ul><li>[Three tips for posting good questions to R-help and Stack Overflow](https://www.r-bloggers.com/three-tips-for-posting-good-questions-to-r-help-and-stack-overflow/)</li><li>[How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve)</li></ul>  |
+
+## Attributions
+
+Materials were inspired, re-used and re-mixed from the following sources:
+- [Software Carpentry](https://software-carpentry.org/), specifically the Unix Shell and Git lessons
+- [Happy Git and GitHub for the useR by Jenny Bryan and the STAT 545 TAs](http://happygitwithr.com/)
+- [Data 8: The Foundations of Data Science](http://data8.org/), specifically Lab 01
+- [Data Carpentry Reproducible Science Workshop](https://datacarpentry.org/rr-organization1/)
