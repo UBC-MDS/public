@@ -8,12 +8,13 @@ The rubrics are:
 
 - (code) [accuracy](rubric_accuracy.md)
 - (code) [quality](rubric_quality.md)
-- (code) [autograde](rubric_autograde.md)
+- [autograde](rubric_autograde.md)
 - [correctness](rubric_correctness.md)
 - [mechanics](rubric_mech.md)
 - [reasoning](rubric_reasoning.md)	
 - [viz](rubric_viz.md)
 - [writing](rubric_writing.md)
-- [presentations](rubric_presentations.md)	mapped to grad grades	7 days ago
+- [presentations](rubric_presentations.md)
 - [peer-review](rubric_peer-review.md)	
 - [spark](rubric_spark.md)	
+- [raw](rubric_raw.md)
