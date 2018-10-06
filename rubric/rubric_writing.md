@@ -16,7 +16,7 @@ This rubric measures the student's ability to produce an assignment that *works 
     <th>Grammar & Spelling (50%)</th>
 	<td>Not Attempted</td>
 	<td>Meaning of text is obscured due to significant grammar and spelling errors.</td>
-	<td>Many (> 10) grammatical and/or spelling errors exits but the meaning of text is not significantly obscured by grammar or spelling errors.</td>
+	<td>Many (> 10) grammatical and/or spelling errors are present but the meaning of text is not significantly obscured by grammar or spelling errors.</td>
 	<td>Fewer than 10 grammatical or spelling errors are present.</td>
 	<td>Fewer than 5 grammatical or spelling errors are present.</td>
 	<td>Fewer than 1-2 grammatical or spelling errors are present.</td>
