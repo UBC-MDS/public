@@ -27,4 +27,5 @@
 	<td>Some form of re-occuring code repetition exists, or tests efficacy is poor. </td>
 	<td>Code repetition is mostly minimized and effective tests are present for most functions.</td>
     	<td>Code repetition is minimized via the use of loops/mapping functions, functions or classes or scripts/files as needed without becoming overly complicated. <br></br> Functions are short, concise, and cohesive without losing clarity; code can be easily modified. <br></br> Tests are present to ensure functions work as expected. Exceptions are caught and thrown if necessary (Once students have learned about exceptions).</td>
-	</tr>
+  </tr>
+</table>
