@@ -24,7 +24,7 @@ This rubric measures the student's ability to produce an assignment that *works 
   <tr>
     <th>Length (50%)</th>
 	<td>Not Attempted</td>
-	<td>The submission is far too long; word or sentence count significantly exceeded if one was given.</td>
+	<td>The submission is far too long (or far too short); word or sentence count significantly exceeded if one was given.</td>
 	<td></td>
 	<td></td>
 	<td>The submisison is not too long; if there was a word or sentence count given, then it was not exceeded by any significant margin.</td>
