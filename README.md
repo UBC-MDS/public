@@ -5,7 +5,7 @@ This repository contains publicly available versions of some of the teaching mat
 Course Number                                                    |  Course Title                                |  README             | lectures             | labs                |
 -----------------------------------------------------------------|----------------------------------------------|---------------------|----------------------|---------------------|
 [DSCI 511](https://github.com/UBC-MDS/DSCI_511_prog-dsci)        |  Programming for Data Science                |                     |                      |                     | 
-[DSCI 521](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)   |  Computing Platforms for Data Science        |                     | :heavy_check_mark:   | :heavy_check_mark:  | 
+[DSCI 521](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)   |  Computing Platforms for Data Science        |  :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  | 
 [DSCI 551](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)   |  Descriptive Statistics and Probability      |                     |                      |                     | 
 [DSCI 542](https://github.com/UBC-MDS/DSCI_542_comm-arg)         |  Communication and Argumentation             |                     |                      |                     | 
 [DSCI 523](https://github.com/UBC-MDS/DSCI_523_data-wrangling)   |  Data Wrangling                              |                     |                      |                     |  
