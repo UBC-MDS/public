@@ -29,6 +29,7 @@ Course Number                                                    |  Course Title
 [DSCI 554](https://github.com/UBC-MDS/DSCI_554_exper-causal-inf)  |  Experimentation and Causal Inference       |                     |                      |                     |
 [DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |                     |                      |                     |
 
+For information about DSCI 591, our Capstone Project, see [here](https://ubc-mds.github.io/capstone/about/).
 
 -----------------
 
