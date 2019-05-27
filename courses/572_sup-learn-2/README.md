@@ -1,1 +1,0 @@
-This content has moved to https://github.com/UBC-MDS/DSCI_572_sup-learn-2_public
