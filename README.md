@@ -1,6 +1,6 @@
 # UBC MDS public teaching materials
 
-This repository contains publicly available versions of some of the teaching materials from the [UBC MDS program](https://masterdatascience.ubc.ca/). See below for the currently available material. The links in the left column lead to course-specific repositories.
+This repository contains publicly available versions of some of the teaching materials from the [UBC Master of Data Science program](https://masterdatascience.ubc.ca/). See below for the currently available material. The links in the left column lead to course-specific repositories.
 
 Course Number                                                    |  Course Title                                |  README             | lectures             | labs                |
 -----------------------------------------------------------------|----------------------------------------------|---------------------|----------------------|---------------------|
