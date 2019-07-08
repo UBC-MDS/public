@@ -28,8 +28,10 @@ Course Number                                                    |  Course Title
 [DSCI 525](https://github.com/UBC-MDS/DSCI_525_web-cloud-comp)    |  Web and Cloud Computing                    |   :heavy_check_mark: |                      |                     |    
 [DSCI 554](https://github.com/UBC-MDS/DSCI_554_exper-causal-inf)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |                      |                     |
 [DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |   :heavy_check_mark: |                      |                     |
+[DSCI 591](https://github.com/UBC-MDS/DSCI_591_capstone-proj)     | Capstone project                            |   :heavy_check_mark: |       n/a            |       n/a           |
 
-For information about DSCI 591, our Capstone Project, see [here](https://ubc-mds.github.io/capstone/about/).
+
+For information about DSCI 591 (our Capstone Project), including a list of past projects and information on how to partner with us, see [here](https://ubc-mds.github.io/capstone/about/).
 
 -----------------
 
