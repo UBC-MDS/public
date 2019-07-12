@@ -17,7 +17,7 @@
     <td>Code is generally easy to read and understand with few non-reoccurring issues and at most two reoccurring issue that affects readability. </td>
     <td>Code is generally easy to read and understand with few non-reoccurring issues and at most one reoccurring issue that affects readability. </td>
     <td>Code is easy to read and understand with only 1-2 minor and non-reoccurring issues that affect readability. </td>
-    <td>Code is exceptionally easy to read and understand.<br></br> For example, variable names are clear, an appropriate amount of whitespace is used to maximize visibility, tabs and spaces are not mixed for indentation, sufficient comments are given.<br></br> Any coding sections of the assignment that were not completed have documentation explaining what a coded solution would look like. <br></br> Overall, the code is extremely well organized and documented.</td>
+    <td>Code is exceptionally easy to read and understand.<br></br> For example, variable names are clear, an appropriate amount of whitespace is used to maximize visibility, tabs and spaces are not mixed for indentation, sufficient comments are given.<br></br> All functions have proper documentation (e.g. docstrings in Python). <br></br> Overall, the code is extremely well organized and documented.</td>
   </tr>
   <tr>
     <th>Robustness and Maintainability (50%)</th>
