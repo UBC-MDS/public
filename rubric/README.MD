@@ -8,6 +8,7 @@ The rubrics are:
 
 - (code) [accuracy](rubric_accuracy.md)
 - (code) [quality](rubric_quality.md)
+- (code) [efficiency](rubric_efficiency.md)
 - [autograde](rubric_autograde.md)
 - [correctness](rubric_correctness.md)
 - [mechanics](rubric_mech.md)
