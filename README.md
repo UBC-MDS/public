@@ -2,7 +2,7 @@
 
 This repository contains publicly available versions of some of the teaching materials from the [UBC Master of Data Science program](https://masterdatascience.ubc.ca/). See below for the currently available material. The links in the left column lead to course-specific repositories.
 
-Course Number                                                    |  Course Title                                |  README             | lectures             | labs                |
+Course Number                                                    |  Course Title                                |  syllabus             | lectures             | labs                |
 -----------------------------------------------------------------|----------------------------------------------|---------------------|----------------------|---------------------|
 [DSCI 511](https://github.com/UBC-MDS/DSCI_511_prog-dsci)        |  Programming for Data Science                |   :heavy_check_mark: |                      |                     | 
 [DSCI 521](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)   |  Computing Platforms for Data Science        |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  | 
