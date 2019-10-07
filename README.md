@@ -6,7 +6,7 @@ Course Number                                                    |  Course Title
 -----------------------------------------------------------------|----------------------------------------------|---------------------|----------------------|---------------------|
 [DSCI 511](https://github.com/UBC-MDS/DSCI_511_prog-dsci)        |  Programming for Data Science                |   :heavy_check_mark: |                      |                     | 
 [DSCI 521](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)   |  Computing Platforms for Data Science        |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  | 
-[DSCI 551](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)   |  Descriptive Statistics and Probability for Data Science | :heavy_check_mark: |            |                     |  
+[DSCI 551](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)   |  Descriptive Statistics and Probability for Data Science | :heavy_check_mark: | :heavy_check_mark: |                     |  
 [DSCI 542](https://github.com/UBC-MDS/DSCI_542_comm-arg)         |  Communication and Argumentation             |   :heavy_check_mark: |                      |                     | 
 [DSCI 523](https://github.com/UBC-MDS/DSCI_523_data-wrangling)   |  Data Wrangling                              |   :heavy_check_mark: |                      |                     |  
 [DSCI 512](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)  |  Algorithms and Data Structures              |   :heavy_check_mark: |                      | :heavy_check_mark:  |
