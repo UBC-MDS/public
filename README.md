@@ -9,7 +9,7 @@ Course Number                                                    |  Course Title
 [DSCI 551](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)   |  Descriptive Statistics and Probability for Data Science | :heavy_check_mark: | :heavy_check_mark: |                     |  
 [DSCI 542](https://github.com/UBC-MDS/DSCI_542_comm-arg)         |  Communication and Argumentation             |   :heavy_check_mark: |                      |                     | 
 [DSCI 523](https://github.com/UBC-MDS/DSCI_523_data-wrangling)   |  Data Wrangling                              |   :heavy_check_mark: |                      |                     |  
-[DSCI 512](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)  |  Algorithms and Data Structures              |   :heavy_check_mark: |                      | :heavy_check_mark:  |
+[DSCI 512](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)  |  Algorithms and Data Structures              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |
 [DSCI 531](https://github.com/UBC-MDS/DSCI_531_viz-1)            |  Data Visualization I                        |   :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |
 [DSCI 552](https://github.com/UBC-MDS/DSCI_552_stat-inf-1)       |  Statistical Inference and Computation I     |   :heavy_check_mark: |                      |                     |
 [DSCI 522](https://github.com/UBC-MDS/DSCI_522_dsci-workflows)   |  Data Science Workflows                      |   :heavy_check_mark: |                      |                     |
