@@ -6,9 +6,9 @@ This rubric is for assessing a student's contribution in project-based courses a
   <tr>
     <th>Destructive contribution (0.0)</th>
     <th>No contribution (0.5)</th>
-    <th>Not satisfactory (0.7)</th>
-    <th>Satisfactory (0.8)</th>
-    <th>Significant contribution (0.9)</th>  
+    <th>Multiple issues (0.7)</th>
+    <th>Some issues (0.8)</th>
+    <th>Minor issues (0.9)</th>  
     <th>Solid contribution (1.0)</th>
   </tr>
   <tr>
