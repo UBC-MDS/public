@@ -12,7 +12,7 @@ Course Number                                                    |  Course Title
 [DSCI 512](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)  |  Algorithms and Data Structures              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |   :heavy_check_mark:   |
 [DSCI 531](https://github.com/UBC-MDS/DSCI_531_viz-1)            |  Data Visualization I                        |   :heavy_check_mark: |   :heavy_check_mark: | :heavy_check_mark: |      |
 [DSCI 552](https://github.com/UBC-MDS/DSCI_552_stat-inf-1)       |  Statistical Inference and Computation I     |   :heavy_check_mark: |                      |                     |      |
-[DSCI 522](https://github.com/UBC-MDS/DSCI_522_dsci-workflows)   |  Data Science Workflows                      |   :heavy_check_mark: |                      |                     |      |
+[DSCI 522](https://github.com/UBC-MDS/DSCI_522_dsci-workflows)   |  Data Science Workflows                      |   :heavy_check_mark: | :heavy_check_mark:                      |    :heavy_check_mark:                  |      |
 [DSCI 513](https://github.com/UBC-MDS/DSCI_513_database-data-retr)|  Databases and Data Retrieval               |   :heavy_check_mark: |                      |                     |      |
 [DSCI 561](https://github.com/UBC-MDS/DSCI_561_regr-1)            |  Regression I                               |   :heavy_check_mark: |                      |                     |      |
 [DSCI 571](https://github.com/UBC-MDS/DSCI_571_sup-learn-1)       |  Supervised Learning I                      |   :heavy_check_mark: |                      |                     |      |
