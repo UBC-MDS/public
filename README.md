@@ -21,7 +21,7 @@ Course Number                                                    |  Course Title
 [DSCI 573](https://github.com/UBC-MDS/DSCI_573_feat-model-select) |  Feature and Model Selection                |   :heavy_check_mark: |                      |                     |       |
 [DSCI 532](https://github.com/UBC-MDS/DSCI_532_viz-2)             |  Data Visualization II                      |   :heavy_check_mark: |                      |                     |      |
 [DSCI 562](https://ubc-mds.github.io/DSCI_562_regr-2/)                   |  Regression II                              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
-[DSCI 524](https://github.com/UBC-MDS/DSCI_524_collab-sw-dev)     |  Collaborative Software Development         |   :heavy_check_mark: |                      |                     |      |
+[DSCI 524](https://github.com/UBC-MDS/DSCI_524_collab-sw-dev)     |  Collaborative Software Development         |   :heavy_check_mark: | :heavy_check_mark:  |  :heavy_check_mark:  |      |
 [DSCI 553](https://github.com/UBC-MDS/DSCI_553_stat-inf-2)        |  Statistical Inference and Computation II   |   :heavy_check_mark: |                      |                     |      |
 [DSCI 574](https://github.com/UBC-MDS/DSCI_574_spat-temp-mod)     |  Spatial and Temporal Models                |   :heavy_check_mark: |                      |                     |       |
 [DSCI 541](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec)      |  Privacy, Ethics, and Security              |   :heavy_check_mark: |                      |                     |      |
