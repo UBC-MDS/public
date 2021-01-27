@@ -1,10 +1,9 @@
 ## Grading Rubric for Writing Quality ##
 
-This rubric measures the student's ability to produce an assignment that *works correctly*; 
+This rubric measures the student's ability to produce an assignment that *is well-written*; 
 
 <table>
   <tr>
-  <th></th>	  
   <th>No attempt (0)</th>
     <th>Poor (F)</th>
     <th>Unsatisfactory (D)</th>
