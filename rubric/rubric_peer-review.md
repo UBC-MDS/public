@@ -17,7 +17,7 @@ This rubric is for assessing one student's peer review of another student's work
 	<td>The review is so generic that it's hard to determine which assignment it's reviewing. It doesn't offer any praise and yet doesn't offer any suggestions either.</td>
 	<td></td>
 	<td></td>
-	<td>The review contains thoughtful, constructive and considerate comments. It is specific and concise.</td>
+	<td>The review contains thoughtful, constructive and considerate comments. It is specific, actionable, and concise.</td>
   </tr>
 </table>
 

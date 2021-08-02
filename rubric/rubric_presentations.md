@@ -1,4 +1,4 @@
-## Grading Rubric for Presentations
+## Grading Rubric for Presentations ##
 
 <table>
   <tr>
@@ -25,8 +25,8 @@
     <td>Speaker missed all opportunities to enhance their presentation with visuals.</td>
     <td>Speaker designed some form of visuals, but doesn't follow any best practices. Visuals may have large blocks of text, unannotated graphs, jarring color schemes, or otherwise confusing designs. Slides may be riddled with typos.</td>
     <td>Speaker designed visuals that could have been useful as supplements to the presentation, but fails to use them effectively. (For example, graphs may be reasonably well-designed, but the speaker doesn't explain their axes or help the audience understand their messages.) Speaker may be distracted by their own visuals, or may inadvertently cause the visuals to compete with their own words for the audience's attention. There are multiple typos.</td>
-    <td>Visuals are well designed and almost always used to good effect. Fonts, colors, images, or whitespace could use minor improvements. There may be one or two typos.</td>
-    <td>Visuals are impeccably designed and were consistently used to enhance the speaker's message. Fonts, colors, images, and whitespace are deliberately chosen and arranged in a way that is not only effective, but pleasing to the eye. There are no typos.</td>
+    <td>Visuals are well designed, well explained, and almost always used to good effect. Fonts, colors, images, or whitespace could use minor improvements. There may be one or two typos.</td>
+    <td>Visuals are impeccably designed, clearly explained, and consistently used to enhance the speaker's message rather than distract from it. Fonts, colors, images, and whitespace are deliberately chosen and arranged in a way that is not only effective, but pleasing to the eye. There are no typos.</td>
   </tr>
   <tr>
     <th>Questions & Answers (20%)</th>
@@ -35,7 +35,7 @@
     <td>Speaker can answer questions with some confidence, but their answers may be inaccurate, contradictory, misleading, or very difficult to understand.</td>
     <td>Speaker can answer questions accurately, but not effectively — doesn't seem to anticipate confusion or realize why the question was posed.</td>
     <td>Speaker can answer questions accurately and effectively with little trouble formulating responses.</td>
-    <td>Speaker can answer questions accurately and confidently and even elaborate; if the speaker is unsure they can speculate thoughtfully, but not pose the speculation as fact.</td>
+    <td>Speaker can answer questions accurately and confidently and even elaborate; if the speaker is unsure they can speculate thoughtfully without posing speculation as fact.</td>
   </tr>
 </table>
 
