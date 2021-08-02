@@ -17,9 +17,7 @@ This rubric measures the student's ability to produce an assignment that *works 
     <td>Evaluator had to spend some time to get the raw submission to work correctly</td>
     <td></td> 
     <td>Evaluator had to make an obvious, small, quick fix to get things working or the wrong file format was submitted</td> 
-    <td>The submission is self-contained and works flawlessly; it just works (in anybody's hands). <br></br> The student did not forget to include all the files in the submission. <br></br> Any necessary libraries to install are either included or are installed by a script, or are made obvious that that the evaluator must install them. <br></br> Student used the asked for file format. All assignment instructions were followed.</td>
-<br/><br/>
-All files were put in a repository, in a reasonable place, with reasonable names; any source files (.tex, .Rmd) are rendered to a readable output format (e.g. .pdf), all figures are included, there is a README file indicating where to find the different aspects of the assignment, etc.
+    <td>The submission is self-contained and works flawlessly (in anybody's hands). <br></br> The student included all the files in the submission. <br></br> Any necessary libraries to install are either included or are installed by a script, or are made obvious that that the evaluator must install them. <br></br> Student used the asked for file format. All assignment instructions were followed.<br/><br/> All files were put in a repository, in a reasonable place, with reasonable names; any source files (.tex, .Rmd) are rendered to a readable output format (e.g. .pdf) where appropriate, all figures are included, there is a README file indicating where to find the different aspects of the assignment, etc.
     </td>
   </tr>
 </table>
