@@ -11,7 +11,7 @@
     <th>Excellent (A- to A+)</th>
   </tr>
   <tr>
-    <th>Engagement & Clarity (40%)</th>
+    <th>Engagement & Clarity (30%)</th>
     <td>Not Attempted</td>
     <td>Speaker gives a presentation that is so short, shallow, or confusing that it was clear that no effort was made.</td>
     <td>Words are spoken quietly or the speaker does not enunciate so that few or no listeners can understand; speaker lacks enthusiasm; speaker pauses frequently and cannot remember what to say; speaker ignores the audience and never makes eye contact; speaker constantly reads off the slides.</td>
@@ -20,13 +20,22 @@
     <td>Speaker projects so that everyone can hear throughout the whole presentation; speaker enunciates clearly and enthusiastically without mumbling or slurring; eye contact is held and body language is used to enhance the verbal presentation; the speaker can smile and entertain the audience; the speaker does not simply read off the slides; the time limit is respected; the speaker looks to the audience or even interacts with them in order to gauge their understanding and adjust the pace accordingly; audience engagement has been a priority in the presentation design, e.g. a captivating introduction or an interactive element during the presentation.</td>
   </tr>
   <tr>
-    <th>Use of Visuals (40%)</th>
+    <th>Use of Visuals (30%)</th>
     <td>Not Attempted</td>
     <td>Speaker missed all opportunities to enhance their presentation with visuals.</td>
     <td>Speaker designed some form of visuals, but doesn't follow any best practices. Visuals may have large blocks of text, unannotated graphs, jarring color schemes, or otherwise confusing designs. Slides may be riddled with typos.</td>
     <td>Speaker designed visuals that could have been useful as supplements to the presentation, but fails to use them effectively. (For example, graphs may be reasonably well-designed, but the speaker doesn't explain their axes or help the audience understand their messages.) Speaker may be distracted by their own visuals, or may inadvertently cause the visuals to compete with their own words for the audience's attention. There are multiple typos.</td>
     <td>Visuals are well designed, well explained, and almost always used to good effect. Fonts, colors, images, or whitespace could use minor improvements. There may be one or two typos.</td>
     <td>Visuals are impeccably designed, clearly explained, and consistently used to enhance the speaker's message rather than distract from it. Fonts, colors, images, and whitespace are deliberately chosen and arranged in a way that is not only effective, but pleasing to the eye. There are no typos.</td>
+  </tr>
+  <tr>
+    <th>Tailoring to Audience (20%)</th>
+    <td>Not Attempted</td>
+    <td>The presentation would likely be confusing or uninteresting to its intended audience in several major instances. For example, many key points are skipped over, and much time is spent on content that would be uninteresting to the audience.</td>
+    <td>The presentation would likely be confusing or uninteresting to its intended audience in a major (or several minor) instances. For example the slides are presented in a confusing order, 1-2 key points are skipped over, or some time is spent on content that would be uninteresting to the audience.</td>
+    <td>The presentation would likely be confusing or uninteresting to its intended audience in few minor instances. For example, key points are skipped or rush in one or two places.</td>
+    <td>The presentation is appropriately tailored to the intended audience. The viewer would likely find the presentation clear and engaging.</td>
+    <td>The presentation is ideally tailored to the intended audience. Audience segments with less data science experience and more data science experience both would likely find the presentation clear, engaging, and relevant.</td>
   </tr>
   <tr>
     <th>Questions & Answers (20%)</th>
