@@ -14,7 +14,7 @@ This rubric is for assessing one student's peer review of another student's work
   <tr>
 	<td>No attempt</td>
 	<td>The review is mean or disrespectful.</td>
-	<td>The review is so generic that it's hard to determine which assignment it's reviewing. It doesn't offer any praise and yet doesn't offer any suggestions either.</td>
+	<td>The review is so generic that it's hard to determine which assignment it's reviewing. It neither highlight any specific positive or negative points nor offer any specific suggestions for improvements.</td>
 	<td>The review identifies both positive and negative sides. However, suggestions for improvement are either not provided, or unfeasible.</td>
 	<td>The review is generally constructive and contains valuable and actionable points for improvement. It might not necessarily be well organized, to the point, and concise.</td>
 	<td>The review contains thoughtful, constructive and considerate comments. It is specific, actionable, and concise.</td>
