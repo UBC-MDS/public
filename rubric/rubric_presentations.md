@@ -11,7 +11,16 @@
     <th>Excellent (A- to A+)</th>
   </tr>
   <tr>
-    <th>Engagement & Clarity (30%)</th>
+    <th>Content & Structure (20%)</th>
+    <td>Not Attempted</td>
+    <td>The majority of slides focus on multiple purposes and/or contain irrelevant information.</td>
+    <td>There are many slides focus on multiple purposes and/or contain irrelevant information. The problem is not well motivated or your solution is not clearly explained.</td>
+    <td>There are several slides with multiple purposes, irrelevant content, too much text, or jargon. The problem and solution are adequately explained.</td>
+    <td>The slides generally focus on one purpose per slide, and generally don't contain distraction such as irrelevant content or too much text on a slide, with one or two exceptions. The problem is quite well motivated and your solution is quite clearly explained.</td>
+    <td>The slides focus on one purpose per slide, and don't contain distraction such as irrelevant content or too much text on a slide. The problem is well motivated. Your solution is clearly explained and easy to follow with relatable examples.</td>
+  </tr>
+  <tr>
+    <th>Engagement & Clarity (20%)</th>
     <td>Not Attempted</td>
     <td>Speaker gives a presentation that is so short, shallow, or confusing that it was clear that no effort was made.</td>
     <td>Words are spoken quietly or the speaker does not enunciate so that few or no listeners can understand; speaker lacks enthusiasm; speaker pauses frequently and cannot remember what to say; speaker ignores the audience and never makes eye contact; speaker constantly reads off the slides.</td>
@@ -20,7 +29,7 @@
     <td>Speaker projects so that everyone can hear throughout the whole presentation; speaker enunciates clearly and enthusiastically without mumbling or slurring; eye contact is held and body language is used to enhance the verbal presentation; the speaker can smile and entertain the audience; the speaker does not simply read off the slides; the time limit is respected; the speaker looks to the audience or even interacts with them in order to gauge their understanding and adjust the pace accordingly; audience engagement has been a priority in the presentation design, e.g. a captivating introduction or an interactive element during the presentation.</td>
   </tr>
   <tr>
-    <th>Use of Visuals (30%)</th>
+    <th>Use of Visuals (20%)</th>
     <td>Not Attempted</td>
     <td>Speaker missed all opportunities to enhance their presentation with visuals.</td>
     <td>Speaker designed some form of visuals, but doesn't follow any best practices. Visuals may have large blocks of text, unannotated graphs, jarring color schemes, or otherwise confusing designs. Slides may be riddled with typos.</td>
