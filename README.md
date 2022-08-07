@@ -17,7 +17,7 @@ Course Number                                                    |  Course Title
 [DSCI 561](https://github.com/UBC-MDS/DSCI_561_regr-1)            |  Regression I                               |   :heavy_check_mark: |                      |                     |      |
 [DSCI 571](https://github.com/UBC-MDS/DSCI_571_sup-learn-1)       |  Supervised Learning I                      |   :heavy_check_mark: |                      |                     |      |
 [DSCI 572](https://github.com/UBC-MDS/DSCI_572_sup-learn-2)       |  Supervised Learning II                     |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
-[DSCI 563](https://github.com/UBC-MDS/DSCI_563_unsup-learn)       |  Unsupervised Learning                      |   :heavy_check_mark: |                      |                     |       |
+[DSCI 563](https://github.com/UBC-MDS/DSCI_563_unsup-learn)       |  Unsupervised Learning                      |   :heavy_check_mark: | :heavy_check_mark:                      |   :heavy_check_mark:                  |       |
 [DSCI 573](https://github.com/UBC-MDS/DSCI_573_feat-model-select) |  Feature and Model Selection                |   :heavy_check_mark: |                      |                     |       |
 [DSCI 532](https://github.com/UBC-MDS/DSCI_532_viz-2)             |  Data Visualization II                      |   :heavy_check_mark: |                      |                     |      |
 [DSCI 562](https://ubc-mds.github.io/DSCI_562_regr-2/)                   |  Regression II                              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
