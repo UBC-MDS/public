@@ -15,7 +15,7 @@ Course Number                                                    |  Course Title
 [DSCI 522](https://github.com/UBC-MDS/DSCI_522_dsci-workflows)   |  Data Science Workflows                      |   :heavy_check_mark: | :heavy_check_mark:                      |    :heavy_check_mark:                  |      |
 [DSCI 513](https://github.com/UBC-MDS/DSCI_513_database-data-retr)|  Databases and Data Retrieval               |   :heavy_check_mark: |                      |                     |      |
 [DSCI 561](https://github.com/UBC-MDS/DSCI_561_regr-1)            |  Regression I                               |   :heavy_check_mark: |                      |                     |      |
-[DSCI 571](https://github.com/UBC-MDS/DSCI_571_sup-learn-1)       |  Supervised Learning I                      |   :heavy_check_mark: |                      |                     |      |
+[DSCI 571](https://github.com/UBC-MDS/DSCI_571_sup-learn-1)       |  Supervised Learning I                      |   :heavy_check_mark: | :heavy_check_mark:                     |                     |      |
 [DSCI 572](https://github.com/UBC-MDS/DSCI_572_sup-learn-2)       |  Supervised Learning II                     |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
 [DSCI 563](https://github.com/UBC-MDS/DSCI_563_unsup-learn)       |  Unsupervised Learning                      |   :heavy_check_mark: | :heavy_check_mark:                      |   :heavy_check_mark:                  |       |
 [DSCI 573](https://github.com/UBC-MDS/DSCI_573_feat-model-select) |  Feature and Model Selection                |   :heavy_check_mark: |                      |                     |       |
