@@ -26,7 +26,7 @@ Course Number                                                    |  Course Title
 [DSCI 574](https://github.com/UBC-MDS/DSCI_574_spat-temp-mod)     |  Spatial and Temporal Models                |   :heavy_check_mark: |                      |                     |       |
 [DSCI 541](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec)      |  Privacy, Ethics, and Security              |   :heavy_check_mark: |                      |                     |      |
 [DSCI 525](https://github.com/UBC-MDS/DSCI_525_web-cloud-comp)    |  Web and Cloud Computing                    |   :heavy_check_mark: |                      |                     |          |
-[DSCI 554](https://github.com/UBC-MDS/DSCI_554_exper-causal-inf)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |                      |                     |      |
+[DSCI 554](https://ubc-mds.github.io/DSCI_554_exper-causal-inf/)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |                      |                     |      |
 [DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |   :heavy_check_mark: |                      |                     |      |
 [DSCI 591](https://github.com/UBC-MDS/DSCI_591_capstone-proj)     | Capstone project                            |   :heavy_check_mark: |       n/a            |       n/a           |      |
 
