@@ -6,7 +6,7 @@ Course Number                                                    |  Course Title
 -----------------------------------------------------------------|----------------------------------------------|---------------------|----------------------|---------------------|----------|
 [DSCI 511](https://github.com/UBC-MDS/DSCI_511_prog-dsci)        |  Programming for Data Science                |   :heavy_check_mark: |   :heavy_check_mark:      |                     |      :heavy_check_mark:  |
 [DSCI 521](https://github.com/UBC-MDS/DSCI_521_platforms-dsci)   |  Computing Platforms for Data Science        |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
-[DSCI 551](https://ubc-mds.github.io/DSCI_551_stat-prob-dsci/)   |  Descriptive Statistics and Probability for Data Science | :heavy_check_mark: | :heavy_check_mark: |                     |        |
+[DSCI 551](https://github.com/UBC-MDS/DSCI_551_stat-prob-dsci)   |  Descriptive Statistics and Probability for Data Science | :heavy_check_mark: | :heavy_check_mark: |                     |        |
 [DSCI 542](https://github.com/UBC-MDS/DSCI_542_comm-arg)         |  Communication and Argumentation             |   :heavy_check_mark: |                      |                     |       |
 [DSCI 523](https://github.com/UBC-MDS/DSCI_523_r-prog)   |  Programming for Data Manipulation                             |   :heavy_check_mark: |                      |                     |        |
 [DSCI 512](https://github.com/UBC-MDS/DSCI_512_alg-data-struct)  |  Algorithms and Data Structures              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |   :heavy_check_mark:   |
@@ -20,14 +20,14 @@ Course Number                                                    |  Course Title
 [DSCI 563](https://github.com/UBC-MDS/DSCI_563_unsup-learn)       |  Unsupervised Learning                      |   :heavy_check_mark: | :heavy_check_mark:                      |   :heavy_check_mark:                  |       |
 [DSCI 573](https://github.com/UBC-MDS/DSCI_573_feat-model-select) |  Feature and Model Selection                |   :heavy_check_mark: |                      |                     |       |
 [DSCI 532](https://github.com/UBC-MDS/DSCI_532_viz-2)             |  Data Visualization II                      |   :heavy_check_mark: |                      |                     |      |
-[DSCI 562](https://ubc-mds.github.io/DSCI_562_regr-2/)                   |  Regression II                              |   :heavy_check_mark: | :heavy_check_mark:   | :heavy_check_mark:  |       |
+[DSCI 562](https://github.com/UBC-MDS/DSCI_562_regr-2)                   |  Regression II                              |   :heavy_check_mark: | :heavy_check_mark:   |   |       |
 [DSCI 524](https://github.com/UBC-MDS/DSCI_524_collab-sw-dev)     |  Collaborative Software Development         |   :heavy_check_mark: | :heavy_check_mark:  |  :heavy_check_mark:  |      |
-[DSCI 553](https://ubc-mds.github.io/DSCI_553_stat-inf-2/)        |  Statistical Inference and Computation II   |   :heavy_check_mark: |                      |                     |      |
-[DSCI 574](https://github.com/UBC-MDS/DSCI_574_spat-temp-mod)     |  Spatial and Temporal Models                |   :heavy_check_mark: |                      |                     |       |
+[DSCI 553](https://github.com/UBC-MDS/DSCI_553_stat-inf-2)        |  Statistical Inference and Computation II   |   :heavy_check_mark: | :heavy_check_mark:  |                     |      |
+[DSCI 574](https://github.com/UBC-MDS/DSCI_574_spat-temp-mod)     |  Spatial and Temporal Models                |   :heavy_check_mark: | :heavy_check_mark: |                     |       |
 [DSCI 541](https://github.com/UBC-MDS/DSCI_541_priv-eth-sec)      |  Privacy, Ethics, and Security              |   :heavy_check_mark: |                      |                     |      |
 [DSCI 525](https://github.com/UBC-MDS/DSCI_525_web-cloud-comp)    |  Web and Cloud Computing                    |   :heavy_check_mark: |                      |                     |          |
-[DSCI 554](https://ubc-mds.github.io/DSCI_554_exper-causal-inf/)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |                      |                     |      |
-[DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |   :heavy_check_mark: |                      |                     |      |
+[DSCI 554](https://github.com/UBC-MDS/DSCI_554_exper-causal-inf)  |  Experimentation and Causal Inference       |   :heavy_check_mark: |  :heavy_check_mark:  |                     |      |
+[DSCI 575](https://github.com/UBC-MDS/DSCI_575_adv-mach-learn)    |  Advanced Machine Learning                  |   :heavy_check_mark: |  :heavy_check_mark:  |                     |      |
 [DSCI 591](https://github.com/UBC-MDS/DSCI_591_capstone-proj)     | Capstone project                            |   :heavy_check_mark: |       n/a            |       n/a           |      |
 
 
